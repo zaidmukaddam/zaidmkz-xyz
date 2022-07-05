@@ -37,7 +37,7 @@ const Nav: React.FC = () => {
               </Link>
             ))} */}
             {routes.map(({ route, title }) => (
-              <Link key={route} href={route}>
+              <Link key={route} href={route} passHref>
                 <a
                   className={`capitalize ${isActive(route) ? '' : 'opacity-50'}`}
                   onClick={resetTags}>

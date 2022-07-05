@@ -30,8 +30,8 @@ const Notes: React.FC<Props> = ({ notes }) => {
               wrote to myself.
             </p>
             <p>
-              Essentially, here are posts I don't want or have the time to give a complete article
-              treatment. That being said, hope you can find any of them valuable to you.
+              Essentially, here are posts I don&apos;t want or have the time to give a complete
+              article treatment. That being said, hope you can find any of them valuable to you.
             </p>
           </details>
         </article>

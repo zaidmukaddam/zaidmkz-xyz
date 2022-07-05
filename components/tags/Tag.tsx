@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/ban-ts-comment */
 import { useRouter } from 'next/router';
 
 import { useTags } from './TagsContext';
