@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Zaid's blog</title>
+        <link>https://zaidmkz.xyz</link>
+        <description>You can find me talking about topics related to JavaScript, TypeScript, React, Web development and technical/coding interviews</description>
+        <lastBuildDate>Tue, 05 Jul 2022 17:55:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <copyright>All rights reserved 2022, Zaid Mukaddam</copyright>
+        <item>
+            <title><![CDATA[When You Should Prefer Map Over Object In JavaScript]]></title>
+            <link>https://zaidmkz.xyz/posts/object-vs-map</link>
+            <guid>https://zaidmkz.xyz/posts/object-vs-map</guid>
+            <pubDate>Fri, 17 Jun 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[the missing guide to choosing between Object and Map in JavaScript]]></description>
+            <content:encoded><![CDATA[the missing guide to choosing between Object and Map in JavaScript]]></content:encoded>
+            <author>zaidaltafmukaddam@gmail.com (Zaid Mukaddam)</author>
+            <category>javascript</category>
+        </item>
+        <item>
+            <title><![CDATA[Verify if a url links to an image (without relying on regex)]]></title>
+            <link>https://zaidmkz.xyz/posts/verify-image-url</link>
+            <guid>https://zaidmkz.xyz/posts/verify-image-url</guid>
+            <pubDate>Mon, 13 Jun 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[one of the rare cases that I need to work with MIME types in frontend web development]]></description>
+            <content:encoded><![CDATA[one of the rare cases that I need to work with MIME types in frontend web development]]></content:encoded>
+            <author>zaidaltafmukaddam@gmail.com (Zaid Mukaddam)</author>
+            <category>javascript</category>
+        </item>
+        <item>
+            <title><![CDATA[One of my favorite JavaScript question - Remote Add]]></title>
+            <link>https://zaidmkz.xyz/posts/remote-add</link>
+            <guid>https://zaidmkz.xyz/posts/remote-add</guid>
+            <pubDate>Sat, 11 Jun 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[A coding question that tests for both algorithmic thinking and mastery over asynchronous JavaScript]]></description>
+            <content:encoded><![CDATA[A coding question that tests for both algorithmic thinking and mastery over asynchronous JavaScript]]></content:encoded>
+            <author>zaidaltafmukaddam@gmail.com (Zaid Mukaddam)</author>
+            <category>technical interviews</category>
+            <category>javascript</category>
+        </item>
+        <item>
+            <title><![CDATA[A complete guide to check data types in JavaScript]]></title>
+            <link>https://zaidmkz.xyz/posts/js-data-type</link>
+            <guid>https://zaidmkz.xyz/posts/js-data-type</guid>
+            <pubDate>Thu, 19 May 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[JavaScript is such an imperfect language that you can’t even rely on it  for simple things like checking data types. ]]></description>
+            <content:encoded><![CDATA[JavaScript is such an imperfect language that you can’t even rely on it  for simple things like checking data types. ]]></content:encoded>
+            <author>zaidaltafmukaddam@gmail.com (Zaid Mukaddam)</author>
+            <category>javascript</category>
+        </item>
+        <item>
+            <title><![CDATA[JSON and the stringification oddities in JavaScript]]></title>
+            <link>https://zaidmkz.xyz/posts/json-oddities</link>
+            <guid>https://zaidmkz.xyz/posts/json-oddities</guid>
+            <pubDate>Wed, 18 May 2022 18:30:00 GMT</pubDate>
+            <author>zaidaltafmukaddam@gmail.com (Zaid Mukaddam)</author>
+            <category>javascript</category>
+        </item>
+        <item>
+            <title><![CDATA[take control over your coding interview]]></title>
+            <link>https://zaidmkz.xyz/posts/take-control-coding-interview</link>
+            <guid>https://zaidmkz.xyz/posts/take-control-coding-interview</guid>
+            <pubDate>Tue, 19 Apr 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[take control over your coding interview so you don't have to guess the answer the interviewer is thinking of]]></description>
+            <content:encoded><![CDATA[take control over your coding interview so you don't have to guess the answer the interviewer is thinking of]]></content:encoded>
+            <author>zaidaltafmukaddam@gmail.com (Zaid Mukaddam)</author>
+            <category>technical interviews</category>
+            <category>musing</category>
+        </item>
+        <item>
+            <title><![CDATA[An introduction to type programming in TypeScript]]></title>
+            <link>https://zaidmkz.xyz/posts/type-programming</link>
+            <guid>https://zaidmkz.xyz/posts/type-programming</guid>
+            <pubDate>Sun, 30 Jan 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[Learn to write types using the type language and leverage your existing javascript knowledge to master TypeScript quicker]]></description>
+            <content:encoded><![CDATA[Learn to write types using the type language and leverage your existing javascript knowledge to master TypeScript quicker]]></content:encoded>
+            <author>zaidaltafmukaddam@gmail.com (Zaid Mukaddam)</author>
+            <category>typescript</category>
+        </item>
+        <item>
+            <title><![CDATA[Rebuilding my website && back to blogging]]></title>
+            <link>https://zaidmkz.xyz/posts/rebuild-website</link>
+            <guid>https://zaidmkz.xyz/posts/rebuild-website</guid>
+            <pubDate>Sun, 19 Dec 2021 18:30:00 GMT</pubDate>
+            <description><![CDATA[Welcome again to my humble abode on the internet.]]></description>
+            <content:encoded><![CDATA[Welcome again to my humble abode on the internet.]]></content:encoded>
+            <author>zaidaltafmukaddam@gmail.com (Zaid Mukaddam)</author>
+            <category>musing</category>
+        </item>
+    </channel>
+</rss>
